@@ -226,9 +226,10 @@ Table of Contents
 		// 是否还可以继续加载更多
 		public boolean hasMore();
 	}
-	
-	#license
-     //数据源
+
+###or-using-vundle
+
+     //数据源
 		
 	public interface IDataSource<DATA> {
 		// 获取刷新的数据
