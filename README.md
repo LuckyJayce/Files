@@ -3,9 +3,9 @@ Table of Contents
 
   * [Dockerfile.vim](#dockerfilevim)
   * [Screenshot](#screenshot)
-  * [Installation](#installation)
-        * [OR using Pathogen:](#or-using-pathogen)
-        * [OR using Vundle:](#or-using-vundle)
+  * [Installation](#installation)  
+        * [OR using Pathogen:](##or-using-pathogen)  
+        * [OR using Vundle:](#or-using-vundle)  
   * [License](#license)
   
   
@@ -183,7 +183,7 @@ Table of Contents
 		public boolean hasMore();
 	}
 
-#or-using-pathogen
+##or-using-pathogen
 
 
      //数据源
