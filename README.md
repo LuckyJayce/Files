@@ -3,6 +3,7 @@ MVCHelper +（IDataSource或ITask）+ IDataAdapter + 下拉刷新控件 + 布局
 
 ###TaskHelper主要用于没有布局切换和刷新控件的MVC架构，可以执行多个任务通过回调ICallback更新UI
 TaskHelper+（ITask或IDataSource）+ ICallBack
+[TaskHelper](#二、 TaskHelper)
 
 Download sample [Apk](https://github.com/LuckyJayce/MVCHelper/blob/master/raw/MVCHelper_Demo.apk?raw=true)  
   
